@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Länder</string>
+    <string name="nome_pais">Deutschland</string>
+    <string name="bandeira_pais">Deutschland Flagge</string>
+    <string name="nome_comida">Eisbein</string>
+    <string name="descricao_comida">Eisbein Gericht</string>
+</resources>

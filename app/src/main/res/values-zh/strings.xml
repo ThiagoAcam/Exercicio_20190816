@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">國家</string>
+    <string name="nome_pais">中國</string>
+    <string name="bandeira_pais">中國國旗</string>
+    <string name="nome_comida">炒麵</string>
+    <string name="descricao_comida">Yakisoba的部分</string>
+</resources>

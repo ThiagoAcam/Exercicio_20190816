@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Χώρες</string>
+    <string name="nome_pais">Ελλάδα</string>
+    <string name="bandeira_pais">Ελλάδα σημαία</string>
+    <string name="nome_comida">Gemista</string>
+    <string name="descricao_comida">Πλάκα πολύτιμων λίθων</string>
+</resources>
